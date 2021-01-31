@@ -1,6 +1,8 @@
 # OJS-migration
-This repository contains Python scripts written to convert XML data exported from Open Journal Systems (Articles and Issues plugin)
-into CSV files, and examples of the XML data.
+This repository contains Python scripts to get metadata and/or files from Open Journal Systems two ways.  
+scraper-v2 and scraper-v3 both parse XML files from the Articles and Issues plugin into CSV files.  
+OJS-URL-issue-page-scraper files extract metadata from HTML pages and write it to text files.
+
 
 File list:
 
